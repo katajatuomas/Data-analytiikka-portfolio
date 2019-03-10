@@ -1,0 +1,7 @@
+Portfoliossa 1 näytimme datan valmistelua, lukumääriä, prosenttien laskua ja kuvioiden tekoa. 
+Portfoliossa 2 näytimme miten luoda oma data, pivot taulukko, laskimme tunnuslukuja ja harjoitimme laskentaa.
+Portfoliossa 3 käytimme seaborn kirjastoa, teimme scatter-kaavion sekä ruutu- ja janakaavion ja teimme seabornilla pylväskaavion.
+Portfoliossa 4 vertailimme terveydenhuolto alalla toimivien osakkeita (Terveystalo, Pihlajalinna). Vertailimme kurssien kehitystä, 
+taulukoimme juoksevan keskiarvon osakekursseille ja analysoimme osto/myyntihetkiä, laskimme myös korrelaatioita osakkeiden välillä
+ja taulukoimme korrelaatiomuutokset tammikuusta 2018. Analysoimme ajanjaksoa 01.2018 tähän päivään, sillä Terveystalo listautui pörssiin
+loppuvuodesta 2017.
