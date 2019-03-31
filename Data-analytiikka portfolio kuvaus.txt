@@ -1,0 +1,9 @@
+Portfoliossa 1 n‰ytimme datan valmistelua, lukum‰‰ri‰, prosenttien laskua ja kuvioiden tekoa. 
+Portfoliossa 2 n‰ytimme miten luoda oma data, pivot taulukko, laskimme tunnuslukuja ja harjoitimme laskentaa.
+Portfoliossa 3 k‰ytimme seaborn kirjastoa, teimme scatter-kaavion sek‰ ruutu- ja janakaavion ja teimme seabornilla pylv‰skaavion.
+Portfoliossa 4 vertailimme terveydenhuolto alalla toimivien osakkeita (Terveystalo, Pihlajalinna). Vertailimme kurssien kehityst‰, 
+taulukoimme juoksevan keskiarvon osakekursseille ja analysoimme osto/myyntihetki‰, laskimme myˆs korrelaatioita osakkeiden v‰lill‰
+ja taulukoimme korrelaatiomuutokset tammikuusta 2018. Analysoimme ajanjaksoa 01.2018 t‰h‰n p‰iv‰‰n, sill‰ Terveystalo listautui pˆrssiin
+loppuvuodesta 2017.
+Portfoliossa 5,6,7 Teimme aikasarja ennusteita eri tavoilla. Portfoliossa 5 ja 6 ennustimme NHL joukkue Chicago Blackhawksien maalim‰‰ri‰
+ja Portfolio 7 ennnustimme Sampo Pankin osingon m‰‰r‰‰. 
